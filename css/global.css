@@ -22,6 +22,12 @@ a {
     padding: 25px 0;
 }
 
+.container{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
 body > header {
     margin-bottom: 20px;
     background: white;
@@ -178,7 +184,8 @@ input.submit {
 #albums article img {
     border: 1px solid #cbcbcb;
     transition: all 0.3s;
-    width: 100%;
+    width: 130px;
+    height: 130px;
 }
 
 #albums article img:hover {
@@ -188,6 +195,7 @@ input.submit {
 
 #albums article figcaption {
     color: #4b5c66;
+    font-size: 10px;
     margin-top: 6px;
     white-space: nowrap;
     text-overflow: ellipsis;
