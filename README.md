@@ -48,3 +48,5 @@ Cela permet d'eviter que l'utilisateur zoom dans votre page web pour naviguer
    - Ajuster la taille du texte aux 3 points de ruptures suivants : 1400px (grossir) / 600px (plus petit) / 450px (encore plus petit)
 
 9. Redimensionner la fenêtre du navigateur ou émuler la taille du device à travers la console dévelopeur. Tester que la page est visuellement cohérente à toutes les résolutions. Faire les ajustements nécessaires avec les media queries.
+
+RAJU Rohnen
